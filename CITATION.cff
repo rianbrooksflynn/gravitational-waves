@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite the following if you use this code:"
+authors:
+- family-names: "Flynn"
+  given-names: "Rian Brooks"
+  orcid: "https://orcid.org/0009-0006-1662-4506"
+title: "Dual-Stream Transformer Model for Anomalous Gravitational Wave Detection"
+version: 1.0.0
+date-released: 2025-02-09
+url: "https://github.com/rianbrooksflynn/gravitational-waves"
